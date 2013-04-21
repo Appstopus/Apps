@@ -17,6 +17,10 @@ int main(int argc, char *argv[])
     }
     //comment test 5
     //commit2 comment4
+<<<<<<< HEAD
     //sean
     //lkm test...
+=======
+    //sean testing 2
+>>>>>>> testing 2
 }
